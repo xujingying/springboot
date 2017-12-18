@@ -1,0 +1,38 @@
+10
+
+dir
+92
+http://localhost:4567/svn/study/houtai/trunk/src/main/webapp
+http://localhost:4567/svn/study
+
+
+
+2017-09-05T10:29:23.316297Z
+92
+dongyunqi
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d82997d8-ea68-0240-8f4e-23cc0b7a735e
+
+
+
+
+
+
+0
+
+WEB-INF
+dir
+
